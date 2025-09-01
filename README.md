@@ -12,10 +12,10 @@
 - I am also a Japan enthusiast
   
 <h2>My PL Languages That I know (And Still learning)</h2>
-- Python (Still learining)
-- Java (Still learning)
-- C and C++ (Stil learning)
-- HTML (Medium difficulty)
+<h4>Python (Still learining) </h4>
+<h4>Java (Still learning)</h4>
+<h4>C and C++ (Stil learning)</h4>
+<h4>HTML (Medium difficulty) </h4>
 
 <h2> 🤳 Connect with me:</h2>
 <h2> Socials (Press the Icon)</h2>
