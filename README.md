@@ -44,19 +44,24 @@ I was born in **Angeles City** and completed my senior high school at **Systems 
 ## 📂 Academic Projects
 
 📄 **Midterm Lab Task 1**
-🔗 [https://github.com/GenRevCrescencio/OOP/blob/main/Problem%201%20(2).docx](https://github.com/GenRevCrescencio/OOP/blob/main/Problem%201%20%282%29.docx)
+🔗 [MTask1](https://docs.google.com/document/d/1CB6-JAuYpfWPJwK5476MjVCPbvpi0i7w/edit?usp=drive_link&ouid=112608573425553151769&rtpof=true&sd=true))
 
 📄 **Midterm Lab Task 2 – Loop Construct**
-🔗 [https://github.com/GenRevCrescencio/OOP/blob/76225281a619f355a24b024f2334f8054ba1dde2/Gen%20Rev%20Crescencio%20-%20Midterm%20Lab%20Task%202%20Loop%20Construct%20(1).docx](https://github.com/GenRevCrescencio/OOP/blob/76225281a619f355a24b024f2334f8054ba1dde2/Gen%20Rev%20Crescencio%20-%20Midterm%20Lab%20Task%202%20Loop%20Construct%20%281%29.docx)
+🔗 [MTask2](https://docs.google.com/document/d/1CB6-JAuYpfWPJwK5476MjVCPbvpi0i7w/edit?usp=drive_link&ouid=112608573425553151769&rtpof=true&sd=true)
 
 📄 **Midterm Lab Task 3**
-🔗 [https://github.com/GenRevCrescencio/OOP/blob/76225281a619f355a24b024f2334f8054ba1dde2/Gen%20Rev%20Crescencio%20(1).docx](https://github.com/GenRevCrescencio/OOP/blob/76225281a619f355a24b024f2334f8054ba1dde2/Gen%20Rev%20Crescencio%20%281%29.docx)
+🔗 [MTask3](https://docs.google.com/document/d/1jQc70-lzP9pekivYMNdLgqogwrgELJq7/edit?usp=drive_link&ouid=112608573425553151769&rtpof=true&sd=true)
+
+📄 **Practice Task using Collections**
+🔗 [PTC](https://docs.google.com/document/d/1-wc0iYaUWjAF11ncK89sIaPoyJXO9ON-Jc-X-BFk7OU/edit?usp=drive_link)
 
 📄 **Midterm Lab Task 4 – Dictionary Collections**
-🔗 [https://github.com/GenRevCrescencio/OOP/blob/76225281a619f355a24b024f2334f8054ba1dde2/Gen%20Rev%20Crescencio%20-%20Midterm%20Lab%20Task%204.%20Using%20Dictionary%20Collections.docx](https://github.com/GenRevCrescencio/OOP/blob/76225281a619f355a24b024f2334f8054ba1dde2/Gen%20Rev%20Crescencio%20-%20Midterm%20Lab%20Task%204.%20Using%20Dictionary%20Collections.docx)
+🔗 [MTask 4](https://docs.google.com/document/d/1EvSUxZJIycE2qUxd30HpOb5XwOAdKWrz/edit?usp=drive_link&ouid=112608573425553151769&rtpof=true&sd=true)
 
 📄 **Midterm Lab Task 5**
-🔗 [https://github.com/GenRevCrescencio/OOP/blob/76225281a619f355a24b024f2334f8054ba1dde2/CRESCENCIO_GEN_REV_Q_7OOP_MIDTERM_LAB_TASK_5.docx](https://github.com/GenRevCrescencio/OOP/blob/76225281a619f355a24b024f2334f8054ba1dde2/CRESCENCIO_GEN_REV_Q_7OOP_MIDTERM_LAB_TASK_5.docx)
+🔗 [MTask5](https://docs.google.com/document/d/1yvyvI21jTfqQYVMcMCBOA0hdho2tUV-3/edit?usp=drive_link&ouid=112608573425553151769&rtpof=true&sd=true)
+📄 **Finals Task 2**
+🔗 [MTask5](https://docs.google.com/document/d/1JGzDqKysiQ8H2xlfA5KVFpC8GjVtUeg6/edit?usp=drive_link&ouid=112608573425553151769&rtpof=true&sd=true)
 
 ---
 
